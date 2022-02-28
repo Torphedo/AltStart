@@ -2,10 +2,10 @@ bool_data:
   add:
     Trigger_AltStart:
       HashValue: -1944827208
-      InitValue: 0
+      InitValue: 1
       IsProgramReadable: true
       IsProgramWritable: true
-      IsSave: false
+      IsSave: true
       MaxValue: true
       MinValue: false
       ResetType: 0

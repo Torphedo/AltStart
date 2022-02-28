@@ -30,12 +30,6 @@ I-8_Static:
       SRTHash: 0
       Translate: [3629.51416, 394.672302, 3247.53711]
       UnitConfigName: EventTag
-    - HashId: !u 0xff7f6fff
-      Rotate: -0.400000006
-      SRTHash: 0
-      Scale: 99999.0
-      Translate: [-3696.46118, 123.472084, 3529.86841]
-      UnitConfigName: AltStartActor
     del: []
     mod: {}
   Rails:

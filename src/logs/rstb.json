@@ -1,8 +1,8 @@
 {
-  "Event/AltStart_Detect.beventpack": 65568,
-  "Event/AltStart.beventpack": 66528,
-  "EventFlow/AltStart_Detect.bfevfl": 65152,
-  "EventFlow/AltStart.bfevfl": 66112,
+  "Event/AltStart.beventpack": 27200,
+  "EventFlow/AltStart.bfevfl": 10944,
+  "EventFlow/AltStart_TwnPorch.bfevfl": 5568,
+  "EventFlow/ClearTutLibrary.bfevfl": 11072,
   "GameData/gamedata.sarc": 6537348,
   "Aoc/0010/Map/MainField/Static.mubin": 601316
 }
