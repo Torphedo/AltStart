@@ -1,0 +1,44 @@
+I-8_Static:
+  Objs:
+    add:
+    - '!Parameters': {AutoSave: true, CameraPriority: 1, CameraSet: '-', ForceCalcInEvent: false, Shape: Box}
+      HashId: !u 0xe1860019
+      LinksToObj:
+      - {DefinitionName: BasicSig, DestUnitHashId: !u 0xfaca4b4c}
+      Rotate: -0.520051837
+      SRTHash: 1768331558
+      Scale: 99999.0
+      Translate: [3621.61597, 343.635101, 3266.96875]
+      UnitConfigName: Area
+    - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlag: Trigger_AltStart, SaveFlagOnOffType: 0}
+      HashId: !u 0x5414149c
+      LinksToObj:
+      - {DefinitionName: BasicSig, DestUnitHashId: !u 0xfaca4b4c}
+      SRTHash: 0
+      Translate: [3633.74585, 389.672302, 3249.4917]
+      UnitConfigName: LinkTagAnd
+    - '!Parameters': {IncrementSave: false, MakeSaveFlag: 0, NoChangeSignal: false, SaveFlagOnOffType: 0}
+      HashId: !u 0xfaca4b4c
+      LinksToObj:
+      - {DefinitionName: BasicSig, DestUnitHashId: !u 0x45367e49}
+      SRTHash: 0
+      Translate: [3631.73584, 391.922302, 3248.53662]
+      UnitConfigName: LinkTagAnd
+    - '!Parameters': {EventFlowEntryName: Trigger, EventFlowName: AltStart, IsEndlessEvent: false, LaunchEventByOffSignal: true,
+        LaunchEventByOnSignal: true}
+      HashId: !u 0x45367e49
+      SRTHash: 0
+      Translate: [3629.51416, 394.672302, 3247.53711]
+      UnitConfigName: EventTag
+    - HashId: !u 0xff7f6fff
+      Rotate: -0.400000006
+      SRTHash: 0
+      Scale: 99999.0
+      Translate: [-3696.46118, 123.472084, 3529.86841]
+      UnitConfigName: AltStartActor
+    del: []
+    mod: {}
+  Rails:
+    add: []
+    del: []
+    mod: {}

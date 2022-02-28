@@ -1,0 +1,55 @@
+StartPos:
+  -1384206-1864OrdonAltStart:
+    Map: D-6
+    PlayerState: Wait
+    PosName: OrdonAltStart
+    Rotate: {X: 0.0, Y: 100.0, Z: 0.0}
+    Translate: {X: -1384.81897, Y: 205.826508, Z: -1864.66699}
+  -3502259-1821RitoAltStart:
+    Map: B-3
+    PlayerState: Wait
+    PosName: RitoAltStart
+    Rotate: {X: 0.0, Y: 270.0, Z: 0.0}
+    Translate: {X: -3502.06592, Y: 258.850311, Z: -1821.58801}
+  -37831492863GerudoAltStart:
+    Map: B-7
+    PlayerState: Wait
+    PosName: GerudoAltStart
+    Rotate: {X: 0.0, Y: 315.0, Z: 0.0}
+    Translate: {X: -3783.625, Y: 149.0, Z: 2862.13794}
+  1526473-2399GoronAltStart:
+    Map: G-2
+    PlayerState: Wait
+    PosName: GoronAltStart
+    Rotate: {X: 0.0, Y: 90.0, Z: 0.0}
+    Translate: {X: 1525.125, Y: 472.442902, Z: -2399.44507}
+  17982201079KakarikoAltStart:
+    Map: G-5
+    PlayerState: Wait
+    PosName: KakarikoAltStart
+    Rotate: {X: 0.0, Y: 180.0, Z: 0.0}
+    Translate: {X: 1797.901, Y: 219.845901, Z: 1078.74597}
+  28291093381LurelinAltStart:
+    Map: H-8
+    PlayerState: Wait
+    PosName: LurelinAltStart
+    Rotate: {X: 0.0, Y: 45.0, Z: 0.0}
+    Translate: {X: 2828.229, Y: 108.631699, Z: 3380.55298}
+  3253243-361ZoraAltStart:
+    Map: I-4
+    PlayerState: Wait
+    PosName: ZoraAltStart
+    Rotate: {X: 0.0, Y: 155.0, Z: 0.0}
+    Translate: {X: 3252.82007, Y: 242.669998, Z: -361.248291}
+  32792072140HatenoAltStart:
+    Map: I-7
+    PlayerState: Wait
+    PosName: HatenoAltStart
+    Rotate: {X: 0.0, Y: 90.0, Z: 0.0}
+    Translate: {X: 3278.25, Y: 206.800003, Z: 2139.97998}
+  493267-1969KorokAltStart:
+    Map: F-2
+    PlayerState: Wait
+    PosName: KorokAltStart
+    Rotate: {X: 0.0, Y: 225.0, Z: 0.0}
+    Translate: {X: 492.96991, Y: 266.454803, Z: -1969.51099}
