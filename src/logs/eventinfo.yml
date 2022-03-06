@@ -14,3 +14,39 @@ ClearTutLibrary<ClearTutorial>:
   is_startable_air: true
   mode: Seamless
   - {file: AltStart_TwnPorch.bfevfl}
+AltStart_TwnPorch<Goron>:
+  exist_enable_camera_input: true
+  is_startable_air: true
+  mode: Seamless
+AltStart_TwnPorch<Gerudo>:
+  exist_enable_camera_input: true
+  is_startable_air: true
+  mode: Seamless
+AltStart_TwnPorch<Rito>:
+  exist_enable_camera_input: true
+  is_startable_air: true
+  mode: Seamless
+AltStart_TwnPorch<Zora>:
+  exist_enable_camera_input: true
+  is_startable_air: true
+  mode: Seamless
+AltStart_TwnPorch<Hateno>:
+  exist_enable_camera_input: true
+  is_startable_air: true
+  mode: Seamless
+AltStart_TwnPorch<Lurelin>:
+  exist_enable_camera_input: true
+  is_startable_air: true
+  mode: Seamless
+AltStart_TwnPorch<Kakariko>:
+  exist_enable_camera_input: true
+  is_startable_air: true
+  mode: Seamless
+AltStart_TwnPorch<Korok>:
+  exist_enable_camera_input: true
+  is_startable_air: true
+  mode: Seamless
+AltStart_TwnPorch<Ordon>:
+  exist_enable_camera_input: true
+  is_startable_air: true
+  mode: Seamless
