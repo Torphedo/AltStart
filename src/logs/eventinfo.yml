@@ -1,3 +1,7 @@
+AltStart<Detect>:
+  is_pause_non_demo_member: false
+  is_startable_air: true
+  mode: Seamless
 AltStart<Trigger>:
   exist_enable_camera_input: true
   is_startable_air: true
