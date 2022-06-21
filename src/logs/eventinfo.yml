@@ -46,7 +46,3 @@ AltStart_TwnPorch<Korok>:
   exist_enable_camera_input: true
   is_startable_air: true
   mode: Seamless
-AltStart_TwnPorch<Ordon>:
-  exist_enable_camera_input: true
-  is_startable_air: true
-  mode: Seamless
