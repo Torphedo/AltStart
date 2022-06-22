@@ -16,7 +16,7 @@ StartPos:
     PlayerState: Wait
     PosName: GerudoAltStart
     Rotate: {X: 0.0, Y: 315.0, Z: 0.0}
-    Translate: {X: -3783.625, Y: 149.0, Z: 2862.13794}
+    Translate: {X: -3134.5, Y: 138.5, Z: 2487.8}
   1526473-2399GoronAltStart:
     Map: G-2
     PlayerState: Wait

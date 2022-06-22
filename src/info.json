@@ -1,12 +1,11 @@
 {
-  "name": "AltS-BOTW",
-  "desc": "Exactly what it sounds like. NOTE: DO NOT UNINSTALL/TRASH",
+  "name": "Alternate Start Locations",
+  "desc": "Allows you to skip the plateau, and start the game in any village! If you have Second Wind installed, you'll also have the option of starting in Ordon Village. Created by Torphedo.",
   "url": "",
-  "image": "",
-  "version": "0.2.0",
+  "image": "https://cdn.discordapp.com/attachments/860375546847559690/988986800339054642/screenshot_42.png",
+  "version": "1.0.0",
   "depends": [],
   "options": {},
   "platform": "wiiu",
-  "id": "RmFyb3JlJ3MgV2luZD09MS4wLjA=",
-  "priority": 104
+  "id": "RmFyb3JlJ3MgV2luZD09MS4wLjA="
 }

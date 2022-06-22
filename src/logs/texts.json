@@ -1,6 +1,6 @@
 {
   "USen": {
-	"EventFlowMsg/AltStart_Menu.msyt": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
       "0001": {
         "attributes": "",
         "contents": [
@@ -13,7 +13,2646 @@
         "attributes": "",
         "contents": [
           {
-            "text": "Gerudo Town"
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "EUen": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "USfr": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "USes": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "EUde": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "EUes": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "EUfr": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "EUit": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "EUnl": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "EUru": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "CNzh": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "JPja": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "KRko": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
+          }
+        ]
+      },
+      "0003": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Rito Village"
+          }
+        ]
+      },
+      "0004": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "See next page."
+          }
+        ]
+      },
+      "0005": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Zora's Domain"
+          }
+        ]
+      },
+      "0006": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Hateno Village"
+          }
+        ]
+      },
+      "0007": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Lurelin Village"
+          }
+        ]
+      },
+      "0008": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Return to page 1."
+          }
+        ]
+      },
+      "0009": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kakariko Village"
+          }
+        ]
+      },
+      "0010": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Korok Forest"
+          }
+        ]
+      },
+      "0011": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Ordon Village"
+          }
+        ]
+      },
+      "Warp1": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 1/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp2": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 2/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                5,
+                6,
+                7,
+                4
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 2,
+              "unknown": 6
+            }
+          }
+        ]
+      },
+      "Warp3SW": {
+        "attributes": "NPC_DRCVoice",
+        "contents": [
+          {
+            "control": {
+              "kind": "animation",
+              "name": "Activate"
+            }
+          },
+          {
+            "text": "Where would you like to start the game?\nYou are currently on page 3/3."
+          },
+          {
+            "control": {
+              "kind": "choice",
+              "choice_labels": [
+                9,
+                10,
+                11,
+                8
+              ],
+              "selected_index": 0,
+              "cancel_index": 3,
+              "unknown": 6
+            }
+          }
+        ]
+      }
+    }
+  },
+  "TWzh": {
+    "EventFlowMsg/AltStart_Menu.msyt": {
+      "0001": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Goron City"
+          }
+        ]
+      },
+      "0002": {
+        "attributes": "",
+        "contents": [
+          {
+            "text": "Kara Kara Bazaar"
           }
         ]
       },
